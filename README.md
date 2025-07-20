@@ -68,5 +68,5 @@ npm install
 npm start
 ```
    
-##👨‍💻 About
+## 👨‍💻 About
 This repository is based on a hands-on React course with 1,900,000+ students worldwide, designed to turn you into an advanced and confident React developer.
