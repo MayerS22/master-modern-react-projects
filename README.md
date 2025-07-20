@@ -56,7 +56,7 @@ The course covers everything from beginner to advanced topics, including **Next.
 ## ⚡ **How to Run a Project**
 1. Navigate to any project folder, e.g.:
 
-   cd 07-usepopcorn```bash
+   ```cd 07-usepopcorn```
 
 
 2.Install dependencies:
