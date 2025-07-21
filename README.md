@@ -20,23 +20,23 @@ The course covers everything from beginner to advanced topics, including **Next.
 
 ## 📂 **Projects Included**
 
-1. **01-pizza-menu** – Basic menu app to learn components and props.  
-2. **02-steps** – Multi-step form/wizard with React state.  
-3. **03-travel-list** – Smart packing list app.  
-4. **04-eat-n-split** – Split expenses with friends.  
-5. **05-usepopcorn** – Movie search app with custom hooks.  
-6. **06-how-react-works** – A deep dive into React’s internals.  
-7. **07-classy-weather** – Weather app using class components.  
-8. **8-react-quiz** – Interactive quiz app with React Router.  
-9. **9-worldwise** – World travel journal app with maps.  
-10. **10-atomic-blog** – Blog platform with atomic components.  
-11. **11-workout-timer** – Interval workout timer.  
-12. **12-redux-intro** – Intro to Redux and Redux Toolkit.  
-13. **13-fast-react-pizza** – Professional pizza ordering app.  
-14. **14-the-wild-oasis** – Hotel booking management system.  
-15. **15-manual-ssr** – Manual Server-Side Rendering with Next.js.  
-16. **16-the-wild-oasis-website** – Real-world Next.js website.  
-17. **17-nextjs-pages-router** – Next.js pages router project.
+01. **pizza-menu** – Basic menu app to learn components and props.  
+02. **steps** – Multi-step form/wizard with React state.  
+03. **travel-list** – Smart packing list app.  
+04. **eat-n-split** – Split expenses with friends.  
+05. **usepopcorn** – Movie search app with custom hooks.  
+06. **how-react-works** – A deep dive into React’s internals.  
+07. **classy-weather** – Weather app using class components.  
+08. **react-quiz** – Interactive quiz app with React Router.  
+09. **worldwise** – World travel journal app with maps.  
+10. **atomic-blog** – Blog platform with atomic components.  
+11. **workout-timer** – Interval workout timer.  
+12. **redux-intro** – Intro to Redux and Redux Toolkit.  
+13. **fast-react-pizza** – Professional pizza ordering app.  
+14. **the-wild-oasis** – Hotel booking management system.  
+15. **manual-ssr** – Manual Server-Side Rendering with Next.js.  
+16. **the-wild-oasis-website** – Real-world Next.js website.  
+17. **nextjs-pages-router** – Next.js pages router project.
 
 ---
 
